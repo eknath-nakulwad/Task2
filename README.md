@@ -20,3 +20,6 @@ javac Student.java StudentManagementSystem.java
 Run the main program:
 java StudentManagementSystem
 
+# Output
+<img width="507" height="288" alt="Screenshot 2025-09-28 181505" src="https://github.com/user-attachments/assets/78d0b5f5-d823-4893-9080-882e1c72c7c5" />
+
